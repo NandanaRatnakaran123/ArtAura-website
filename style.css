@@ -132,7 +132,11 @@ td{
 .banner-video{
     position: absolute;
     top: 76px;
+<<<<<<< HEAD
     padding-left:441px;
+=======
+    right: 550px;
+>>>>>>> a61a57074d6145231b2deb3d1834c18fedd7864d
     width: 435px;
     height: 350px;
     
