@@ -126,7 +126,7 @@ td{
 /* banner */
 .banner-img{
     position: relative;
-    width: 1216px;
+    width: 100%;
     height: 1302px;
 }
 .banner-video{
