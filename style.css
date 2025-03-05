@@ -132,20 +132,14 @@ td{
 .banner-video{
     position: absolute;
     top: 76px;
-<<<<<<< HEAD
-    padding-left:441px;
-=======
-    right: 550px;
->>>>>>> a61a57074d6145231b2deb3d1834c18fedd7864d
-    width: 435px;
-    height: 350px;
+    margin-left: 437px;
     
 }
 .video-text{
     position: absolute;
     background-color:rgb(156, 210, 234);
     top: 377px;
-    right: -14px;
+    right: 146px;
     width: 307px;
     height: 20px;
     font-family: "Dancing Script", serif;
@@ -159,7 +153,8 @@ td{
     width: 100px;
     height: 17px;
     background-color: #60a0ce;
-    left: 675px;
+    left: 262px;
+
     padding: 5px;
 }
 .start-explore:hover{
